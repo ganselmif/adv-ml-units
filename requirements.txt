@@ -1,0 +1,14 @@
+# Copyright (c) 2023 Fabio Anselmi
+# Copyright (c) 2023 AILab @ UniTS
+# All rights reserved.
+# Released under the terms of the Clear BSD License
+
+# Requirements in sync with Google Colab
+
+torch>=1.13.1
+torchvision>=0.14.1
+numpy>=1.21.6
+scipy>=1.7.3
+scikit-learn>=1.0.2
+matplotlib>=3.2.2
+tqdm>=4.64.1
