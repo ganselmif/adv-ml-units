@@ -284,3 +284,5 @@ cleanup.sh
 __scratch__/
 **/__scratch__/
 **/__scratch__/**
+
+.gitconfig
