@@ -26,6 +26,6 @@ Labs:
 
 Challenges:
 
-* [Challenge 1](./notebooks/AdvML_Challenge_1.ipynb): An analytical perambulation around *FashionMNIST*
+* [Challenge 1](./notebooks/AdvML_Challenge_1.ipynb): An analytical perambulation around *FashionMNIST* (**Update: an important notice about *kPCA* on *FashionMNIST* has been published**)
 
 * [Challenge 2](): *TDB*
