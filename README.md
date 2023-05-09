@@ -12,9 +12,9 @@ Labs:
 
 * [Lab 3](./notebooks/AdvML_UniTS_2023_Lab_03_DL_with_PyTorch.ipynb): Deep Learning with `PyTorch` (not an actual *exercise notebook*; already *"solved"*!)
 
-* [Lab 4](./notebooks/AdvML_UniTS_2023_Lab_04_FCN_Augmentation.ipynb): Effect of data augmentation on learned weights ([solved](./solutions/AdvML_UniTS_2023_Lab_04_FCN_Augmentation_Solved.ipynb))
+* [Lab 4a](./notebooks/AdvML_UniTS_2023_Lab_04_FCN_Augmentation.ipynb): Effect of data augmentation on learned weights ([solved](./solutions/AdvML_UniTS_2023_Lab_04_FCN_Augmentation_Solved.ipynb))
 
-* [Lab 4 bis](./notebooks/AdvML_UniTS_2023_Lab_04bis_FCN_Invariance.ipynb): Invariance in a *shallow FCN* under data augmentation ([solved](./solutions/AdvML_UniTS_2023_Lab_04bis_FCN_Invariance_Solved.ipynb))
+* [Lab 4b](./notebooks/AdvML_UniTS_2023_Lab_04bis_FCN_Invariance.ipynb): Invariance in a *shallow FCN* under data augmentation ([solved](./solutions/AdvML_UniTS_2023_Lab_04bis_FCN_Invariance_Solved.ipynb))
 
 * [Lab 5](./notebooks/AdvML_UniTS_2023_Lab_05_CNN_Invariance_Equivariance.ipynb): Invariance and Equivariance in a *CNN* ([solved](./solutions/AdvML_UniTS_2023_Lab_05_CNN_Invariance_Equivariance_Solved.ipynb))
 
@@ -26,6 +26,7 @@ Labs:
 
 Challenges:
 
-* [Challenge 1](./notebooks/AdvML_Challenge_1.ipynb): An analytical perambulation around *FashionMNIST* (**Update: an important notice about *kPCA* on *FashionMNIST* has been published**)
+* [Challenge 1](./notebooks/AdvML_Challenge_1.ipynb): An analytical perambulation around *FashionMNIST* <br>
+(**Update: an important notice about *kPCA* on *FashionMNIST* has been published**!)
 
-* [Challenge 2](): *TDB*
+* [Challenge 2](./notebooks/AdvML_Challenge_2.ipynb): *Discovering **Symmetries** in Data*
