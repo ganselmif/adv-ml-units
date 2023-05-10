@@ -30,3 +30,7 @@ Challenges:
 (**Update: an important notice about *kPCA* on *FashionMNIST* has been published**!)
 
 * [Challenge 2](./notebooks/AdvML_Challenge_2.ipynb): *Discovering **Symmetries** in Data*
+
+---
+
+Please, fill the (very short) [**Final Projects form**](https://forms.gle/BsfG9BJfxuZy6tjN7) as soon as possible, to receive early feedback on the exam project! Thanks!
