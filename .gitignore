@@ -286,3 +286,6 @@ __scratch__/
 **/__scratch__/**
 
 .gitconfig
+
+# TODOs:
+**/todo.md
