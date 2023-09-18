@@ -274,11 +274,9 @@ typeshed/
 .wandb/
 
 # Admin scripts
-colab_copy.sh
-fix_xperm.sh
-publish_sol.sh
-unpublish_sol.sh
-cleanup.sh
+publish.sh
+publish.ps1
+_solutions/
 
 # Working files
 __scratch__/

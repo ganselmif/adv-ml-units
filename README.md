@@ -1,4 +1,4 @@
-# Advanced Topics in Machine Learning 2024
+# Advanced Topics in Machine Learning 2023/2024
 
 Elective course for the *Data Science and Scientific Computing* M.Sc. programme @ University of Trieste
 
