@@ -10,7 +10,7 @@ Labs:
 
 * [Lab 2](./notebooks/AdvML_UniTS_2023_Lab_02_Kernel_ridge_regression_and_kPCA.ipynb): *Kernelized* machine learning ([solved](./solutions/AdvML_UniTS_2023_Lab_02_Kernel_ridge_regression_and_kPCA_Solved.ipynb))
 
-* [Lab 3](./notebooks/AdvML_UniTS_2023_Lab_03_DL_with_PyTorch.ipynb): Deep Learning with `PyTorch` (not an actual *exercise notebook*; already *"solved"*!)
+* [Lab 3](./notebooks/AdvML_UniTS_2023_Lab_03_DL_with_PyTorch/AdvML_UniTS_2023_Lab_03_DL_with_PyTorch_02_nnets.ipynb): Deep Learning with `PyTorch` (not an actual *exercise notebook*; already *"solved"*!)
 
 * [Lab 4a](./notebooks/AdvML_UniTS_2023_Lab_04_FCN_Augmentation.ipynb): Effect of data augmentation on learned weights ([solved](./solutions/AdvML_UniTS_2023_Lab_04_FCN_Augmentation_Solved.ipynb))
 
