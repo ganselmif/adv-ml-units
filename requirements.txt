@@ -1,9 +1,9 @@
-# Copyright (c) 2023 Fabio Anselmi
-# Copyright (c) 2023 AILab @ UniTS
+# Copyright (c) 2024 Fabio Anselmi
+# Copyright (c) 2024 AILab @ UniTS
 # All rights reserved.
 # Released under the terms of the MIT License
 
-# Requirements in sync with Google Colab (17/09/2023)
+# Requirements in sync with Google Colab (17/09/2024)
 
 torch>=2.0.1
 torchvision>=0.15.2
