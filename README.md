@@ -26,9 +26,9 @@ Labs:
 
 Challenges:
 
-* [Challenge 1](./notebooks/AdvML_Challenge_1.ipynb): An analytical perambulation around *FashionMNIST*
+* [Old Challenge 1](./notebooks/AdvML_Challenge_2023_1_old.ipynb): An analytical perambulation around *FashionMNIST*
 
-* [Challenge 2](./notebooks/AdvML_Challenge_2.ipynb): *Discovering **Symmetries** in Data*
+* [Old Challenge 2](./notebooks/AdvML_Challenge_2023_2_old.ipynb): *Discovering **Symmetries** in Data*
 
 ---
 
