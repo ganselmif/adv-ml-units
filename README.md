@@ -26,9 +26,15 @@ Labs:
 
 Challenges:
 
+<<<<<<< HEAD
 * [Old Challenge 1](./notebooks/AdvML_Challenge_2023_1_old.ipynb): An analytical perambulation around *FashionMNIST*
 
 * [Old Challenge 2](./notebooks/AdvML_Challenge_2023_2_old.ipynb): *Discovering **Symmetries** in Data*
+=======
+* [Old Challenge 1](./notebooks/AdvML_Challenge_1_old.ipynb): An analytical perambulation around *FashionMNIST*
+
+* [Old Challenge 2](./notebooks/AdvML_Challenge_2_old.ipynb): *Discovering **Symmetries** in Data*
+>>>>>>> 43cdc7f (Add solution to 1st notebook)
 
 ---
 
